@@ -1,7 +1,3 @@
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -183,7 +179,7 @@ exclude:
   - package.json
   - package-lock.json
   - Rakefile
-#  - README
+  - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
